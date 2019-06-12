@@ -1,5 +1,3 @@
-package WypozyczalniaRowerow;
-
 public enum Frames {
 
     AL("aluminum",1),

@@ -1,5 +1,3 @@
-package WypozyczalniaRowerow;
-
 public enum Colors {
 
     RED("Red",500),

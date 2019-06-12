@@ -1,9 +1,7 @@
-package WypozyczalniaRowerow;
-
 public class Bike {
 
     private Colors color;
-    private int tireThickness;   //grubosc
+    private int tireThickness;
     private Frames frame;
     private double price;
     private int days;
